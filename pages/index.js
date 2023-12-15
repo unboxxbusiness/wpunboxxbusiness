@@ -21,10 +21,10 @@ export default function Home() {
     return (
         <Layout className="">
             <SEO
-                title="NutriTrack - A landing page template 🚀"
-                description="Discover NutriTrack, the effortless way to plan your meals with the power of Notion. Streamline your nutrition journey and achieve your health goals with ease."
+                title="Unboxx Business: WordPress Mastery for Passive Income🚀"
+                description="Join the challenge now for only 2k (or get free access with your NextSalesman AI trial)"
             />
-            <div className="main-wrapper bg-[#F3F5F8] relative z-10 pb-20 pt-20 ">
+            <div className="main-wrapper bg-[#f3f8f4] relative z-10 pb-20 pt-20 ">
                 {/* { Page Banner } */}
                 <HomeBanner />
                 {/* Components Container */}
@@ -35,22 +35,18 @@ export default function Home() {
                     >
                         <SectionContainer id="features" className="features">
                             <BadgeGroup alignment="center">
-                                <BadgeMessage>Features</BadgeMessage>
+                                <BadgeMessage>#Fast Action Bonus</BadgeMessage>
                             </BadgeGroup>
                             <PageTitle
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                Simplify Your Nutrition Journey with NutriTrack
+                               One Launch Away <br />Challenge is Back!!!
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
-                                    Hey there! Welcome to NutriTrack, the
-                                    ultimate nutrition meal planner powered by
-                                    Notion. We&apos;ve got some awesome features
-                                    lined up to make your nutrition journey a
-                                    piece of cake (pun intended). Check them
-                                    out:
+                                Join the challenge Now
+For a one time discounted payment of <strong className="line-through">15k </strong>only 2k (or get free access with your NextSalesman Ai trial)
                                 </p>
                             </Content>
                             <ContentImage />
@@ -69,58 +65,39 @@ export default function Home() {
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                Master Your Meal Planning and Nutrition Journey
+                               Certification Plus AI Boost
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
-                                    Our comprehensive Notion template designed
-                                    to empower you on your meal planning and
-                                    nutrition journey. With our user-friendly
-                                    features, customizable layouts, and seamless
-                                    recipe integration, taking control of your
-                                    meals has never been easier.
+                                Take Your Web Design Journey to New Heights with Our Courses, and Access a Free Trial of NextSalesman AI for an Unparalleled Professional Advantage.
                                 </p>
                             </Content>
                             <CardGroup className="grid scroll-m-24 gap-8 grid-cols-1 max-w-4xl mx-auto mt-24 md:grid-cols-2">
                                 <Card className="col-span-1 text-primary-900">
                                     <CardBody className="w-full bg-white-600/20 p-12">
                                         <CardImage
-                                            src="/features4.png"
+                                            src="/bg5.png"
                                             alt="Customizable Layouts image used."
                                         />
                                         <CardHeader className="!text-black !text-2xl !font-bold">
-                                            Customizable Layouts
+                                            Certification
                                         </CardHeader>
                                         <p>
-                                            Personalize your meal planning
-                                            experience with our flexible
-                                            layouts. Tailor your sections,
-                                            categories, and tabs to suit your
-                                            unique style and organization
-                                            preferences. Our template adapts to
-                                            your needs, providing a seamless and
-                                            personalized planning experience.
+                                        Attain Agency-Level Certification: Unlock Global Opportunities to Work Anytime, Anywhere with Our Accreditation
                                         </p>
                                     </CardBody>
                                 </Card>
                                 <Card className="col-span-1 text-primary-900">
                                     <CardBody className="w-full bg-white-600/20 p-12">
                                         <CardImage
-                                            src="/features3.png"
+                                            src="/bg6.png"
                                             alt="Progress Tracking image used."
                                         />
                                         <CardHeader className="!text-black !text-2xl !font-bold">
-                                            Progress Tracking
+                                            NextSalesman Ai Trial
                                         </CardHeader>
                                         <p>
-                                            Celebrate your wins and stay
-                                            motivated on your nutrition journey.
-                                            NutriTrack allows you to monitor
-                                            your progress with weight,
-                                            measurements, and other key metrics.
-                                            Track your improvements over time
-                                            and see the positive impact of your
-                                            healthy choices.
+                                        NextSalesman AI: Your Automated Sales Buddy - Set Up Once, Relax, and Earn Easy with Bonus Software!
                                         </p>
                                     </CardBody>
                                 </Card>
@@ -140,8 +117,8 @@ export default function Home() {
                                 <BadgeIcon icon="twemoji:waving-hand" />
                             </BadgeGroup>
                             <PageTitle className="" type="default">
-                                This is what our customers have to say about
-                                this template
+                                This is what our students have to say about
+                                this Launch Challenge
                             </PageTitle>
                             <Columns />
                         </SectionContainer>
@@ -158,10 +135,10 @@ export default function Home() {
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                Got some burning questions about NutriTrack?{" "}
+                                Got some burning questions about Unboxx Business Launch Challenge?{" "}
                                 <br></br>
-                                <br></br>No worries! We&apos;ve got the answers
-                                you need:
+                                <br></br>No worries—we have the answers
+                               
                             </PageTitle>
                             <Accordion />
                         </SectionContainer>

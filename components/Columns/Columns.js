@@ -5,31 +5,31 @@ import { v4 as uuid } from "uuid";
 const ColumnData = [
     {
         id: uuid(),
-        title: "Emily J.",
+        title: "Ronit Yadav",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "NutriPlan has revolutionized my meal planning and nutrition journey. With its intuitive Notion template, I can effortlessly plan my meals, track my nutrition, and stay on top of my health goals. It's truly a game-changer!"
+            "The Web Design Agency course was a game-changer for me. The certification and NextSalesman AI trial catapulted my agency's success. Ready to launch hassle-free and earn passive income!"
     },
     {
         id: uuid(),
-        title: "Jason F.",
+        title: "Asif Khan",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "I've tried various meal planning tools, but NutriPlan stands out from the rest. The customizable layouts and seamless recipe integration make it a breeze to create delicious and healthy meals. It's become an essential part of my wellness routine."
+            "This platform's certification opened global doors for my freelancing career. The NextSalesman AI trial is a must-try for freelancers – it added a professional edge to my work"
     },
     {
         id: uuid(),
-        title: "Miguel J.",
+        title: "Mohit Yadav",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "NutriPlan has made meal planning and tracking nutrition so much easier and enjoyable. The comprehensive features and user-friendly interface have helped me stay on track with my health goals. I highly recommend it to anyone looking for a convenient and effective solution."
+            "The course's certification gave my agency the credibility it needed. NextSalesman AI trial streamlined my processes, making my entrepreneurial journey seamless. Highly recommended!"
     },
     {
         id: uuid(),
-        title: "Kim L.",
+        title: "Kumari Rita",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "I can't imagine my nutrition journey without NutriPlan. It has simplified the way I plan my meals and track my progress. The ability to customize layouts and easily integrate recipes has made healthy eating a breeze. It's been a true lifesaver!"
+            "Thanks to the NextSalesman AI trial, launching my agency was hassle-free. Now, I'm earning passive income effortlessly. A fantastic platform for those serious about online success"
     }
 ];
 

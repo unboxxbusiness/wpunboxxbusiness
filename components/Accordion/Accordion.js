@@ -7,30 +7,30 @@ import clsx from "clsx";
 const accordionData = [
     {
         id: uuid(),
-        title: "What is Notion?",
+        title: " Are the courses self-paced?",
         isOpen: true,
         content:
-            "Notion is an all-in-one productivity tool that allows you to create notes, databases, and collaborative workspaces, making it easy to organize and manage your tasks, projects, and ideas in one place."
+            "Yes, all our courses are designed to be self-paced, allowing you to learn at your convenience."
     },
     {
         id: uuid(),
-        title: "Who is this template for?",
+        title: "What does the agency-level certification entail?",
         isOpen: false,
         content:
-            "This template is specifically designed for Notion creators who want to create a personalized landing page for their Notion workspace, showcasing their projects, services, or content in a visually appealing manner."
+            "The certification signifies completion of our comprehensive course, validating your proficiency at an agency level in web design."
     },
     {
         id: uuid(),
-        title: "Do I need to pay for this?",
+        title: "Can I access the course material after completion?",
         isOpen: false,
-        content: "No, this is free."
+        content: "Yes, you will have lifetime access to the course material and any future updates."
     },
     {
         id: uuid(),
-        title: "Where can I ask more questions about this template?",
+        title: "Are there any additional costs associated with the certification or NextSalesman AI trial?",
         isOpen: false,
         content:
-            "If you have any further questions or need assistance regarding this template, please feel free to reach out to me on my website, or click the Contact within the navigation links."
+            "No, both the certification and the NextSalesman AI trial are included with the course at no extra cost."
     }
 ];
 

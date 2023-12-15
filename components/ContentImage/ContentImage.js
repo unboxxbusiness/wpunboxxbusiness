@@ -6,19 +6,19 @@ import { v4 as uuid } from "uuid";
 const ContentImageData = [
     {
         id: uuid(),
-        title: "Effortless Planning",
+        title: "WordPress Blogging",
         content:
-            "Say goodbye to meal planning stress! With NutriTrack, planning your meals becomes a breeze. Our user-friendly Notion template lets you create customized daily or weekly meal plans effortlessly. Enjoy a balanced and nutritious diet without the hassle.",
+            "Monetize Your Passion: Join our WordPress Blogging Course, Learn Niche Affiliate Marketing, and Launch Your Profitable Blogging Platform with High-Profit Products!",
         align: "right",
-        image: "/features1.png"
+        image: "/bg7.png"
     },
     {
         id: uuid(),
-        title: "Shopping List",
+        title: "Web Agency Mastry",
         content:
-            "We've got your grocery shopping covered! NutriTrack includes a handy shopping list feature. As you plan your meals, the template automatically generates a comprehensive shopping list. No more forgotten items or aimless wandering in the supermarket. Shopping for healthy ingredients has never been easier!",
+            "Enroll in Our Web Design Mastry Course for Comprehensive Tutorials and Launch-Ready Repositories – Ignite Your Career as a Freelancer or Entrepreneur and Start Earning Today",
         align: "left",
-        image: "/features2.png"
+        image: "/bg8.png"
     }
 ];
 

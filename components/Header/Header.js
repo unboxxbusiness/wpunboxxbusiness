@@ -16,9 +16,9 @@ export const Header = () => {
                     <h1 className="logo mb-0">
                         <Link href="/">
                             <Image
-                                src="/nutritrack.svg"
+                                src="/logo.webp"
                                 alt="logo"
-                                className="h-6 w-auto"
+                                className="h-13 w-13"
                                 height="24"
                                 width="100"
                                 priority
@@ -31,10 +31,10 @@ export const Header = () => {
                     <ButtonGroup className="hidden md:block">
                         <a
                             role="button"
-                            href="https://github.com/christian-luntok/nutritrack"
+                            href="https://courses.unboxxbusiness.com"
                             className="btn btn--secondary ml-4"
                         >
-                            Get Template
+                           Start Challenge Now
                             <Icon icon="material-symbols:arrow-forward-rounded" />
                         </a>
                     </ButtonGroup>
