@@ -19,7 +19,7 @@ const nextConfig = {
     env: {
         siteTitle: "unboxxbusiness",
         siteDescription: "Join the challenge now for only 5k (or get free access with your NextSalesman AI trial)",
-        siteKeywords: "wordpress tutorial, blogging, wordpress free course, wordpress affiliate marketing course, wordpress in hindi, wordpress hindi course, web design institue in noida, web design institute in delhi, web design course free, wordpress web design course",
+        siteKeywords: "startups,entrepreneurship india,entrepreneur,starting a business,start a business,Startups,tech,inspiration,indian entrepreneur,Business Trainings,Business Coach,how to form partnership firm,how to get loan from banks,how to get gst registration,gst registration,startup india,standup india,make in india,subsidy schemes to msme,government schemes for msme,how to start business in india,how to get loan for startup,",
         siteUrl: "https://unboxxbusiness.com",
         siteImagePreviewUrl: "/images/preview.jpeg",
         twitterHandle: "@unboxxbusiness"
