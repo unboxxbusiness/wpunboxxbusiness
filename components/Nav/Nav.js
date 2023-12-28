@@ -8,8 +8,8 @@ const navigation = [
     { name: "Testimonials", to: "#testimonials", href: "/#testimonials" },
     { name: "FAQ?", to: "#faq", href: "/#faq" },
     {
-        name: "Subscribe Newsletter",
-        href: "https://www.youtube.com/@unboxxbusiness?sub_confirmation=1",
+        name: "Log in",
+        href: "https://courses.unboxxbusiness.com/s/",
         isArrow: true,
         target: "_blank"
     }

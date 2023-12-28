@@ -7,30 +7,30 @@ import clsx from "clsx";
 const accordionData = [
     {
         id: uuid(),
-        title: " Are the courses self-paced?",
+        title: " What is Unboxx Business?",
         isOpen: true,
         content:
-            "Yes, all our courses are designed to be self-paced, allowing you to learn at your convenience."
+            "Unboxx Business is an online community dedicated to providing entrepreneurs with easy training, essential resources, and smart software solutions to support their business journey."
     },
     {
         id: uuid(),
-        title: "What does the agency-level certification entail?",
+        title: "Who can join Unboxx Business?",
         isOpen: false,
         content:
-            "The certification signifies completion of our comprehensive course, validating your proficiency at an agency level in web design."
+            "Unboxx Business welcomes entrepreneurs at all levels, from new founders to seasoned business owners. Whether you're starting a small venture or running a larger enterprise, our community is designed to cater to diverse business needs."
     },
     {
         id: uuid(),
-        title: "Can I access the course material after completion?",
+        title: "How can Unboxx Business help new founders?",
         isOpen: false,
-        content: "Yes, you will have lifetime access to the course material and any future updates."
+        content: "For new founders, Unboxx Business offers easy training to kickstart their entrepreneurial journey, essential resources tailored to their unique challenges, and smart software solutions to streamline business operations. The community also provides support, mentorship, and networking opportunities for growth."
     },
     {
         id: uuid(),
-        title: "Are there any additional costs associated with the certification or NextSalesman AI trial?",
+        title: "How do I access the training and resources on Unboxx Business?",
         isOpen: false,
         content:
-            "No, both the certification and the NextSalesman AI trial are included with the course at no extra cost."
+            "Once you join Unboxx Business, you'll have access to the training modules and resources through our online platform. Simply log in to explore the materials and start enhancing your entrepreneurial skills."
     }
 ];
 

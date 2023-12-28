@@ -31,10 +31,10 @@ export const Header = () => {
                     <ButtonGroup className="hidden md:block">
                         <a
                             role="button"
-                            href="https://courses.unboxxbusiness.com"
+                            href="https://courses.unboxxbusiness.com/s/"
                             className="btn btn--secondary ml-4"
                         >
-                           Start Challenge Now
+                           Sign Up Free
                             <Icon icon="material-symbols:arrow-forward-rounded" />
                         </a>
                     </ButtonGroup>

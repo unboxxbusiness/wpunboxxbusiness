@@ -14,33 +14,33 @@ export const HomeBanner = () => {
                 {/* Appear First */}
                 <MotionBTTContainer transition={{ delay: 0.2, duration: 0.5 }}>
                     <BadgeGroup alignment="center">
-                        <BadgeMessage>#WorkFromHome</BadgeMessage>
+                        <BadgeMessage>#Bizcommunity</BadgeMessage>
                         <BadgeIcon icon="game-icons:achievement" />
                     </BadgeGroup>
                 </MotionBTTContainer>
                 {/* Appear Second */}
                 <MotionBTTContainer transition={{ delay: 0.4, duration: 0.5 }}>
                     <PageTitle className="text-center mx-auto" type="heavy">
-                    Ready To Launch Your First (or Next) Platform...?
+                    Empowering Non-Tech Entrepreneurs
                     </PageTitle>
                 </MotionBTTContainer>
                 {/* Appear Third */}
                 <MotionBTTContainer transition={{ delay: 0.6, duration: 0.5 }}>
                     <Content className="text-center" alignment="center">
                         <p>
-                        if so, you are in Luck Because the One Launch Away
-Challenge is Back!!!{" "}
+                       Unboxx Business is an online community specializing in providing entrepreneurs with easy training, essential resources, and smart software solutions.
+{" "}
                         </p>
                     </Content>
                     <div className="mt-6 mb-16 text-center">
                         <ButtonGroup alignment="center">
-                            <Button href="#features">#Fast Action Bonus</Button>
+                            <Button href="#features">#Free Resources</Button>
                             <a
                                 role="button"
-                                href="https://courses.unboxxbusiness.com/"
+                                href="https://courses.unboxxbusiness.com/s/"
                                 className="btn btn--secondary"
                             >
-                                Start Challenge Now
+                                Sign Up Free
                                 <Icon icon="material-symbols:arrow-forward-rounded" />
                             </a>
                         </ButtonGroup>

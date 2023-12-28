@@ -8,28 +8,28 @@ const ColumnData = [
         title: "Ronit Yadav",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "The Web Design Agency course was a game-changer for me. The certification and NextSalesman AI trial catapulted my agency's success. Ready to launch hassle-free and earn passive income!"
+            "Unboxx Business community rocks! It's my go-to for support, ideas, and motivation. Being part of this network has elevated my business journey."
     },
     {
         id: uuid(),
         title: "Asif Khan",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "This platform's certification opened global doors for my freelancing career. The NextSalesman AI trial is a must-try for freelancers – it added a professional edge to my work"
+            "Unboxx Business is more than a community; it's a family of entrepreneurs. The shared wisdom and encouragement here are priceless. Joining was the best decision for my business."
     },
     {
         id: uuid(),
         title: "Mohit Yadav",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "The course's certification gave my agency the credibility it needed. NextSalesman AI trial streamlined my processes, making my entrepreneurial journey seamless. Highly recommended!"
+            "Unboxx Business community is my daily dose of inspiration. The quick tips and friendly vibes make it a must for any entrepreneur. Grateful to be a part of it!"
     },
     {
         id: uuid(),
         title: "Kumari Rita",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "Thanks to the NextSalesman AI trial, launching my agency was hassle-free. Now, I'm earning passive income effortlessly. A fantastic platform for those serious about online success"
+            "Unboxx Business community is a gem. It's where I find solutions, share successes,and feel understood.here is unmatched, making my business path much brighter"
     }
 ];
 

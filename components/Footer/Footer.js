@@ -74,7 +74,7 @@ export const Footer = () => {
                                         href="https://courses.unboxxbusiness.com/"
                                         className="btn btn--secondary"
                                     >
-                                       Start Challenge Now
+                                       Join Training Now
                                         <Icon icon="material-symbols:arrow-forward-rounded" />
                                     </a>
                                 </ButtonGroup>

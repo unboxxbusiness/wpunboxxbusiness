@@ -21,8 +21,8 @@ export default function Home() {
     return (
         <Layout className="">
             <SEO
-                title="Unboxx Business: WordPress Mastery for Passive Income🚀"
-                description="Join the challenge now for only 2k (or get free access with your NextSalesman AI trial)"
+                title="Unboxx Business: Free Resources , Training & Many More For entrepreneurs🚀"
+                description="Unboxx Business is an online community specializing in providing entrepreneurs with easy training, essential resources, and smart software solutions"
             />
             <div className="main-wrapper bg-[#f3f8f4] relative z-10 pb-20 pt-20 ">
                 {/* { Page Banner } */}
@@ -41,12 +41,12 @@ export default function Home() {
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                               One Launch Away <br />Challenge is Back!!!
+                              Learn For Free 
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
-                                Join the challenge Now
-For a one time discounted payment of <strong className="line-through">15k </strong>only 2k (or get free access with your NextSalesman Ai trial)
+                                No computer skills required! Our community is for everyone—small or new business. 
+Join now for a boost in your business journey!
                                 </p>
                             </Content>
                             <ContentImage />
@@ -58,46 +58,48 @@ For a one time discounted payment of <strong className="line-through">15k </stro
                     >
                         <SectionContainer className="feature-tabs">
                             <BadgeGroup alignment="center">
-                                <BadgeMessage>More Features</BadgeMessage>
+                                <BadgeMessage>More Resources</BadgeMessage>
                                 <BadgeIcon icon="twemoji:waving-hand" />
                             </BadgeGroup>
                             <PageTitle
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                               Certification Plus AI Boost
+                               More Resources
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
-                                Take Your Web Design Journey to New Heights with Our Courses, and Access a Free Trial of NextSalesman AI for an Unparalleled Professional Advantage.
+                                
+Access free tools, expert guidance, and customizable templates to effortlessly launch and grow your business. 
                                 </p>
                             </Content>
                             <CardGroup className="grid scroll-m-24 gap-8 grid-cols-1 max-w-4xl mx-auto mt-24 md:grid-cols-2">
                                 <Card className="col-span-1 text-primary-900">
                                     <CardBody className="w-full bg-white-600/20 p-12">
                                         <CardImage
-                                            src="/bg5.png"
+                                            src="/back3.png"
                                             alt="Customizable Layouts image used."
                                         />
                                         <CardHeader className="!text-black !text-2xl !font-bold">
-                                            Certification
+                                           Whatsapp Channel Community
                                         </CardHeader>
                                         <p>
-                                        Attain Agency-Level Certification: Unlock Global Opportunities to Work Anytime, Anywhere with Our Accreditation
+                                        Discover powerful tools and resources to build your business.
+
                                         </p>
                                     </CardBody>
                                 </Card>
                                 <Card className="col-span-1 text-primary-900">
                                     <CardBody className="w-full bg-white-600/20 p-12">
                                         <CardImage
-                                            src="/bg6.png"
+                                            src="/back4.png"
                                             alt="Progress Tracking image used."
                                         />
                                         <CardHeader className="!text-black !text-2xl !font-bold">
-                                            NextSalesman Ai Trial
+                                           Sales Ai Automation Workshop
                                         </CardHeader>
                                         <p>
-                                        NextSalesman AI: Your Automated Sales Buddy - Set Up Once, Relax, and Earn Easy with Bonus Software!
+                                        Learn to create a powerful sales system, organize leads in one dashboard, and automate your business effortlessly.
                                         </p>
                                     </CardBody>
                                 </Card>
@@ -117,8 +119,7 @@ For a one time discounted payment of <strong className="line-through">15k </stro
                                 <BadgeIcon icon="twemoji:waving-hand" />
                             </BadgeGroup>
                             <PageTitle className="" type="default">
-                                This is what our students have to say about
-                                this Launch Challenge
+                                Positive Feedback
                             </PageTitle>
                             <Columns />
                         </SectionContainer>
@@ -135,7 +136,7 @@ For a one time discounted payment of <strong className="line-through">15k </stro
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                Got some burning questions about Unboxx Business Launch Challenge?{" "}
+                                Got some burning questions about Unboxx Business Resources?{" "}
                                 <br></br>
                                 <br></br>No worries—we have the answers
                                

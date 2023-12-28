@@ -6,19 +6,19 @@ import { v4 as uuid } from "uuid";
 const ContentImageData = [
     {
         id: uuid(),
-        title: "WordPress Blogging",
+        title: "Free Course",
         content:
-            "Monetize Your Passion: Join our WordPress Blogging Course, Learn Niche Affiliate Marketing, and Launch Your Profitable Blogging Platform with High-Profit Products!",
+            "Get free resources, training, templates, and more to easily launch and grow your business.",
         align: "right",
-        image: "/bg7.png"
+        image: "/back1.png"
     },
     {
         id: uuid(),
-        title: "Web Agency Mastry",
+        title: "YouTube Channel",
         content:
-            "Enroll in Our Web Design Mastry Course for Comprehensive Tutorials and Launch-Ready Repositories – Ignite Your Career as a Freelancer or Entrepreneur and Start Earning Today",
+            "Join our weekly tutorials to effortlessly grasp the essentials of entrepreneurship. These user-friendly sessions offer accessible insights and practical tips, making it a breeze for you to enrich your understanding and skills in the business landscape.",
         align: "left",
-        image: "/bg8.png"
+        image: "/back2.png"
     }
 ];
 
